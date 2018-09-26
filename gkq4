@@ -1,0 +1,101 @@
+From mason.x01@gmail.com Tue Sep 25 11:35:17 2018
+Received: by mail-lj1-f180.google.com with SMTP id p89-v6so6031408ljb.3
+        for <masonx@masonx.tk>; Tue, 25 Sep 2018 08:35:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to;
+        bh=CDVN9wRIu1VqrTVH2zu0YZQoEMp5wRulo79wJWjilDs=;
+        b=goTBsRH2P3vptfU6HNw4NrjXj59cVOtO4uCKnh+GMGpbrtRJI+qsUkOAO+7WUsdZAn
+         p8xohJT9qihahr/eOgYsT7Vz6+tQrLxNvTa1Y11eyizzh39MwerSpbccV7IA+7U23rbU
+         bJYC7HucgAKtU5x9QBUy1ZLQLwHwNWQTkYx/q7P7/qNajIm2SImqQgKwUxhltH1axq9C
+         AHmwBAR0PJfZu+sM60dIDlgvuVV6tm8IkPxX06FTpiDCD60wOFJlPr6Mg4T/doDxTRBg
+         F8qDXSIpaxGxYAk2Lsi9imqqhZtsKmnTCGyYxhkdIyFNaDq2krHxb6d+LNhqrc1FrJYc
+         wT9A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to;
+        bh=CDVN9wRIu1VqrTVH2zu0YZQoEMp5wRulo79wJWjilDs=;
+        b=psTCUvVh/63ZuNgJU/QWdl41CQEQOrc98TBbFTqfVUELgLH4y8vMKCRPA5U6ly6FWE
+         1UE0SPIR0Jh8EGci4NLGiR5xyAOOMY0vJqs4uLjypvWYH9QuXihxz/H2R61eysg1rR+J
+         mWlLRvGgdmUzL4hxvaf0OP9Iwdl+p9dCyO3gi85ZKlMy2F68Qc4Ot2YpW8e17X3toMsE
+         EX1rJwQfkpYALba7h26p/nyrUvZvw/52oGzo1boE+6n8hNMdbTmcax4b10erjstygHb6
+         JJfHvC6BEcnPDVKAekyLbEgFnJ4LbI5sIIUGBXuJoDLmFNg5BfOcOm+2SEkpAsUqQO/F
+         AWWw==
+X-Gm-Message-State: ABuFfojivAVwddvQoDV2V7HW8e3xeMjIP3aC2d/imKNIzry+ddYmQcAd
+	vRm/qprfC181nYH3FsPihu9r4yZCDoZGQvClnud7yw==
+X-Google-Smtp-Source: ACcGV63/AM9G8esXtDYuNOEQWBwDKf7oq6Pfu8LkPE3/QdG33ykvwrb/8C6MDM+lwpBvKGC/M/9z2YX2G166r5vl5xY=
+X-Received: by 2002:a2e:6598:: with SMTP id e24-v6mr1218013ljf.99.1537889715834;
+ Tue, 25 Sep 2018 08:35:15 -0700 (PDT)
+MIME-Version: 1.0
+Reply-To: mason.x01@gmail.com
+From: Mason X <mason.x01@gmail.com>
+Date: Tue, 25 Sep 2018 11:34:38 -0400
+Message-ID: <CAGroW=qHd=w+KtoG8JNi8HB_TqH_ZP9OktP6Y-dB+Yt4JrQN7Q@mail.gmail.com>
+Subject: Hello, friend.
+To: masonx@masonx.tk
+Content-Type: multipart/alternative; boundary="00000000000037528d0576b3dacb"
+
+--00000000000037528d0576b3dacb
+Content-Type: text/plain; charset="UTF-8"
+
+How do you do? It's been a while.
+
+Mason
+
+--00000000000037528d0576b3dacb
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">How do you do? It&#39;s been a while.<div><br clear="all"><div><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature"><div dir="ltr">Mason</div></div></div></div></div>
+
+<script src="example.js"></script>
+
+--00000000000037528d0576b3dacb--
+
+From sho-kusano@zeny.io Sat Feb 25 15:32:19 2017
+From: Sho Kusano <sho-kusano@zeny.io>
+Received: by 10.223.145.131 with HTTP; Sat, 25 Feb 2017 07:32:19 -0800 (PST)
+Date: Sun, 26 Feb 2017 00:32:19 +0900
+Delivered-To: sho-kusano@zeny.io
+Message-ID: <CAFvZ=gWLwCBhO__cNq3vzMK08E8KVcud949V+SZJ8MYTYhY-5Q@mail.gmail.com>
+Subject: テストメール
+To: Sho Kusano <sho-kusano@zeny.io>
+Content-Type: text/plain
+
+This is a test
+
+From sho-kusano@zeny.io Sat Feb 25 15:32:19 2017
+From: Sho Kusano <sho-kusano@zeny.io>
+Received: by 10.223.145.131 with HTTP; Sat, 25 Feb 2017 07:32:19 -0800 (PST)
+Date: Sun, 26 Feb 2017 00:32:19 +0900
+Delivered-To: sho-kusano@zeny.io
+Message-ID: <CAFvZ=gWLwCBhO__cNq3vzMK08E8KVcud949V+SZJ8MYTYhY-5Q@mail.gmail.com>
+Subject: テストメール
+To: Sho Kusano <sho-kusano@zeny.io>
+Content-Type: multipart/alternative; boundary=f403045f188447ff3505495c8d9f
+
+--f403045f188447ff3505495c8d9f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E3=83=86=E3=82=B9=E3=83=88
+
+--=20
+Sho Kusano
+E-Mail: sho-kusano@zeny.io
+
+http://zeny.io
+
+--f403045f188447ff3505495c8d9f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">=E3=83=86=E3=82=B9=E3=83=88<br clear=3D"all"><div><br></di=
+v>-- <br><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature">=
+<div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"ltr">Sho Kusano<br></div=
+><div dir=3D"ltr"><div><div>E-Mail: <a href=3D"mailto:sho-kusano@zeny.io" t=
+arget=3D"_blank">sho-kusano@zeny.io</a></div><div><br></div><div><a href=3D=
+"http://zeny.io" target=3D"_blank">http://zeny.io</a></div><div><br></div><=
+/div></div></div></div></div></div></div>
+
+--f403045f188447ff3505495c8d9f--
